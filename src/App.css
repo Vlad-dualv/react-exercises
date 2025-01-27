@@ -8,3 +8,12 @@
 .container {
   margin: 0 auto;
 }
+
+h1 {
+  font-size: 55px;
+  margin-bottom: 50px;
+}
+
+p {
+  font-size: 20px;
+}

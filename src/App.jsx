@@ -1,11 +1,12 @@
 import "./App.css";
-import DarkModeToggle from "./components/DarkModeToggle";
-import { useState } from "react";
+import ContactForm from "./components/ContactForm/ContactForm";
+//import { useState, useEffect } from "react";
+//import fetchData from "./api";
 
 export default function App() {
   return (
     <div className="container">
-      <DarkModeToggle />
+      <ContactForm />
     </div>
   );
 }
